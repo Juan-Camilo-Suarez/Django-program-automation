@@ -1,0 +1,20 @@
+.inline-related h3 {
+    color: white;
+    background: #79aec8;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+}
+
+.inline-group .tabular fieldset.module {
+    position: relative;
+    left: 20px;
+}
+
+.inline-group h2 {
+    font-weight: 300;
+    font-size: 11px;
+    text-align: left;
+    background: #caeaf5;
+    color: var(--body-quiet-color);
+}

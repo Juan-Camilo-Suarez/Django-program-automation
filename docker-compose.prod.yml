@@ -1,0 +1,44 @@
+version: '3'
+
+services:
+  nginx:
+    image: discipline-program-automation-nginx:latest
+    ports:
+      - 80:80
+    build:
+      context: .
+      dockerfile: deploy/nginx/Dockerfile
+    volumes:
+      - static:/app/static
+    depends_on:
+      - app
+
+  app:
+    image: discipline-program-automation
+    build:
+      context: .
+      dockerfile: deploy/python/Dockerfile
+    ports:
+      - 8000:8000
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+    volumes:
+      - static:/app/static
+
+  db:
+    image: postgres:11.1-alpine
+    ports:
+      - 5432:5432
+    environment:
+      DB_NAME: discipline
+      DB_USER: discipline
+      DB_PASSWORD: discipline
+    volumes:
+      - db:/var/lib/postgresql/data
+    restart: always
+
+volumes:
+  db:
+  static:
