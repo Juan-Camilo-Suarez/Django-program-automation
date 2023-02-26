@@ -1,0 +1,66 @@
+image: atnartur/docker:latest
+
+stages:
+  - lint
+  - build
+  - deploy
+##- deploy_ubuntu
+
+before_script:
+  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+#  - pip install -r requirements.txt
+
+lint:
+  stage: lint
+  image: python:3.10.5
+  before_script: [ ]
+  script:
+    - pip install click==8.0.4
+    - pip install black==22.8.0
+    - black . --check --diff
+
+build:
+  stage: build
+  script:
+    - docker-compose -f docker-compose.prod.yml build app
+    - docker-compose -f docker-compose.prod.yml build nginx
+#  tags:
+#    - djangodiscipline
+#  only:
+#    - main
+
+#push:
+#  stage: push
+#  script:
+#    - docker-compose -f docker-compose.prod.yml push
+#  tags:
+#    - djangodiscipline
+#  only:
+#    - main
+
+#deploy_linux:
+#  stage: deploy
+#  script:
+#    #- docker-compose -f docker-compose.prod.yml pull
+#    - docker-compose -f docker-compose.prod.yml stop
+#    - docker-compose -f docker-compose.prod.yml rm -f
+#    - docker-compose -f docker-compose.prod.yml up -d
+#  #  tags:
+#  #    - djangodiscipline
+#  only:
+#    - main
+
+deploy:
+  stage: deploy
+  script:
+    # Скрипт сборки указан внутри системы и
+    # никаких дополнительных настроек не требуется
+    - echo
+  tags:
+    - a.uenv.ru
+    - unienv_deploy
+  environment:
+    name: UniEnv
+    url: http://a.uenv.ru
+  only:
+    - main

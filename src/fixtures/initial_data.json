@@ -1,0 +1,2825 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2022-11-21T10:16:57.054Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Теория информации и кодирования-Технологии разработки информационных систем",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2022-11-21T10:17:13.268Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Теория информации и кодирования-Технологии разработки информационных систем",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2022-11-21T15:50:32.204Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "1",
+      "object_repr": "CriteriaEvaluation object (1)",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2022-11-21T16:01:14.234Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "2",
+      "object_repr": "CriteriaEvaluationBrief object (2)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2022-11-21T16:01:32.106Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "1",
+      "object_repr": "CriteriaEvaluationBrief object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2022-11-21T16:02:14.680Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "3",
+      "object_repr": "CriteriaEvaluationBrief object (3)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2022-11-21T16:02:43.324Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "4",
+      "object_repr": "CriteriaEvaluationBrief object (4)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2022-11-21T16:28:38.614Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "4",
+      "object_repr": "CriteriaEvaluationBrief object (4)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2022-11-21T16:28:38.623Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "3",
+      "object_repr": "CriteriaEvaluationBrief object (3)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2022-11-21T16:28:38.627Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "2",
+      "object_repr": "CriteriaEvaluationBrief object (2)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2022-11-21T16:28:38.632Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "1",
+      "object_repr": "CriteriaEvaluationBrief object (1)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2022-11-21T16:28:55.776Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "5",
+      "object_repr": "CriteriaEvaluationBrief object (5)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2022-11-21T16:29:20.084Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "6",
+      "object_repr": "CriteriaEvaluationBrief object (6)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2022-11-21T16:45:32.067Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "6",
+      "object_repr": "CriteriaEvaluationBrief object (6)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2022-11-21T16:45:32.080Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "5",
+      "object_repr": "CriteriaEvaluationBrief object (5)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2022-11-21T16:45:44.042Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "7",
+      "object_repr": "CriteriaEvaluationBrief object (7)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2022-11-21T16:45:55.826Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "8",
+      "object_repr": "CriteriaEvaluationBrief object (8)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2022-11-21T16:46:05.383Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "9",
+      "object_repr": "CriteriaEvaluationBrief object (9)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2022-11-21T16:46:15.609Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "10",
+      "object_repr": "CriteriaEvaluationBrief object (10)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2022-11-21T18:27:39.733Z",
+      "user": 1,
+      "content_type": 24,
+      "object_id": "2",
+      "object_repr": "CurrentControl object (2)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2022-11-21T18:56:10.690Z",
+      "user": 1,
+      "content_type": 24,
+      "object_id": "2",
+      "object_repr": "CurrentControl object (2)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2022-11-21T19:11:16.417Z",
+      "user": 1,
+      "content_type": 21,
+      "object_id": "2",
+      "object_repr": "EvaluationTools object (2)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2022-11-21T19:11:19.455Z",
+      "user": 1,
+      "content_type": 24,
+      "object_id": "3",
+      "object_repr": "CurrentControl object (3)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2022-11-21T19:12:40.396Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "11",
+      "object_repr": "CriteriaEvaluationBrief object (11)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2022-11-21T19:12:53.918Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "12",
+      "object_repr": "CriteriaEvaluationBrief object (12)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2022-11-21T19:13:08.681Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "13",
+      "object_repr": "CriteriaEvaluationBrief object (13)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2022-11-21T19:13:18.816Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "14",
+      "object_repr": "CriteriaEvaluationBrief object (14)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2022-11-22T08:35:25.808Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "13",
+      "object_repr": "CriteriaEvaluationBrief object (13)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\", \"\\u041e\\u0446\\u0435\\u043d\\u043a\\u0430\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2022-11-22T08:35:37.927Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "13",
+      "object_repr": "CriteriaEvaluationBrief object (13)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2022-11-22T11:33:33.086Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "13",
+      "object_repr": "CriteriaEvaluationBrief object (13)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2022-11-22T12:07:02.302Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "13",
+      "object_repr": "CriteriaEvaluationBrief object (13)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2022-11-22T12:14:21.661Z",
+      "user": 1,
+      "content_type": 21,
+      "object_id": "2",
+      "object_repr": "EvaluationTools object (2)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0440\\u044f\\u0434\\u043e\\u043a \\u043f\\u0440\\u043e\\u0432\\u0435\\u0434\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2022-11-22T12:14:48.713Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "14",
+      "object_repr": "CriteriaEvaluationBrief object (14)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2022-11-22T12:15:10.924Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "14",
+      "object_repr": "CriteriaEvaluationBrief object (14)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2022-11-22T12:16:01.057Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "11",
+      "object_repr": "CriteriaEvaluationBrief object (11)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2022-11-22T12:16:18.993Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "12",
+      "object_repr": "CriteriaEvaluationBrief object (12)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2022-11-22T12:16:32.086Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "14",
+      "object_repr": "CriteriaEvaluationBrief object (14)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2022-11-22T12:16:55.514Z",
+      "user": 1,
+      "content_type": 25,
+      "object_id": "15",
+      "object_repr": "CriteriaEvaluationBrief object (15)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2022-11-22T12:18:15.572Z",
+      "user": 1,
+      "content_type": 24,
+      "object_id": "3",
+      "object_repr": "CurrentControl object (3)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2022-11-28T15:07:04.743Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "1",
+      "object_repr": "CriteriaEvaluation object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2022-11-28T15:08:00.869Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "2",
+      "object_repr": "CriteriaEvaluation object (2)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2022-11-28T15:09:43.168Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "3",
+      "object_repr": "CriteriaEvaluation object (3)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2022-11-28T15:10:29.011Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "4",
+      "object_repr": "CriteriaEvaluation object (4)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2022-11-28T15:36:42.898Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "4",
+      "object_repr": "CriteriaEvaluation object (4)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2022-11-28T15:37:08.894Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "2",
+      "object_repr": "CriteriaEvaluation object (2)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2022-11-28T16:21:32.534Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "5",
+      "object_repr": "CriteriaEvaluation object (5)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2022-11-28T16:21:46.940Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "6",
+      "object_repr": "CriteriaEvaluation object (6)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2022-11-28T16:23:59.251Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "7",
+      "object_repr": "CriteriaEvaluation object (7)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2022-11-28T16:24:14.426Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "8",
+      "object_repr": "CriteriaEvaluation object (8)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2022-11-28T16:25:51.240Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "9",
+      "object_repr": "CriteriaEvaluation object (9)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2022-11-28T16:26:09.268Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "10",
+      "object_repr": "CriteriaEvaluation object (10)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2022-11-28T16:26:33.388Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "11",
+      "object_repr": "CriteriaEvaluation object (11)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2022-11-28T16:26:49.914Z",
+      "user": 1,
+      "content_type": 26,
+      "object_id": "12",
+      "object_repr": "CriteriaEvaluation object (12)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2022-11-28T17:31:55.198Z",
+      "user": 1,
+      "content_type": 28,
+      "object_id": "12",
+      "object_repr": "AchivementIndicator object (12)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add учебный план",
+      "content_type": 7,
+      "codename": "add_curriculum"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change учебный план",
+      "content_type": 7,
+      "codename": "change_curriculum"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete учебный план",
+      "content_type": 7,
+      "codename": "delete_curriculum"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view учебный план",
+      "content_type": 7,
+      "codename": "view_curriculum"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add направление",
+      "content_type": 8,
+      "codename": "add_direction"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change направление",
+      "content_type": 8,
+      "codename": "change_direction"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete направление",
+      "content_type": 8,
+      "codename": "delete_direction"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view направление",
+      "content_type": 8,
+      "codename": "view_direction"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add форма занятия",
+      "content_type": 9,
+      "codename": "add_lessonform"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change форма занятия",
+      "content_type": 9,
+      "codename": "change_lessonform"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete форма занятия",
+      "content_type": 9,
+      "codename": "delete_lessonform"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view форма занятия",
+      "content_type": 9,
+      "codename": "view_lessonform"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add профиль",
+      "content_type": 10,
+      "codename": "add_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change профиль",
+      "content_type": 10,
+      "codename": "change_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete профиль",
+      "content_type": 10,
+      "codename": "delete_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view профиль",
+      "content_type": 10,
+      "codename": "view_profile"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add Программа",
+      "content_type": 11,
+      "codename": "add_program"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change Программа",
+      "content_type": 11,
+      "codename": "change_program"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete Программа",
+      "content_type": 11,
+      "codename": "delete_program"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view Программа",
+      "content_type": 11,
+      "codename": "view_program"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+      "name": "Can add название программы",
+      "content_type": 12,
+      "codename": "add_programname"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+      "name": "Can change название программы",
+      "content_type": 12,
+      "codename": "change_programname"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+      "name": "Can delete название программы",
+      "content_type": 12,
+      "codename": "delete_programname"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+      "name": "Can view название программы",
+      "content_type": 12,
+      "codename": "view_programname"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+      "name": "Can add тематический план",
+      "content_type": 13,
+      "codename": "add_thematicplan"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+      "name": "Can change тематический план",
+      "content_type": 13,
+      "codename": "change_thematicplan"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+      "name": "Can delete тематический план",
+      "content_type": 13,
+      "codename": "delete_thematicplan"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+      "name": "Can view тематический план",
+      "content_type": 13,
+      "codename": "view_thematicplan"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+      "name": "Can add количество часов по темам",
+      "content_type": 14,
+      "codename": "add_thematicplanformlesson"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+      "name": "Can change количество часов по темам",
+      "content_type": 14,
+      "codename": "change_thematicplanformlesson"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+      "name": "Can delete количество часов по темам",
+      "content_type": 14,
+      "codename": "delete_thematicplanformlesson"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+      "name": "Can view количество часов по темам",
+      "content_type": 14,
+      "codename": "view_thematicplanformlesson"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+      "name": "Can add Обучающийся должен",
+      "content_type": 15,
+      "codename": "add_studentmust"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+      "name": "Can change Обучающийся должен",
+      "content_type": 15,
+      "codename": "change_studentmust"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+      "name": "Can delete Обучающийся должен",
+      "content_type": 15,
+      "codename": "delete_studentmust"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+      "name": "Can view Обучающийся должен",
+      "content_type": 15,
+      "codename": "view_studentmust"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+      "name": "Can add интернет ресурc",
+      "content_type": 16,
+      "codename": "add_internetresource"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+      "name": "Can change интернет ресурc",
+      "content_type": 16,
+      "codename": "change_internetresource"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+      "name": "Can delete интернет ресурc",
+      "content_type": 16,
+      "codename": "delete_internetresource"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+      "name": "Can view интернет ресурc",
+      "content_type": 16,
+      "codename": "view_internetresource"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+      "name": "Can add количество часов занятия",
+      "content_type": 17,
+      "codename": "add_curriculumlessonform"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+      "name": "Can change количество часов занятия",
+      "content_type": 17,
+      "codename": "change_curriculumlessonform"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+      "name": "Can delete количество часов занятия",
+      "content_type": 17,
+      "codename": "delete_curriculumlessonform"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+      "name": "Can view количество часов занятия",
+      "content_type": 17,
+      "codename": "view_curriculumlessonform"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 69,
+    "fields": {
+      "name": "Can add компетенция",
+      "content_type": 18,
+      "codename": "add_competence"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 70,
+    "fields": {
+      "name": "Can change компетенция",
+      "content_type": 18,
+      "codename": "change_competence"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 71,
+    "fields": {
+      "name": "Can delete компетенция",
+      "content_type": 18,
+      "codename": "delete_competence"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 72,
+    "fields": {
+      "name": "Can view компетенция",
+      "content_type": 18,
+      "codename": "view_competence"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 73,
+    "fields": {
+      "name": "Can add автор",
+      "content_type": 19,
+      "codename": "add_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 74,
+    "fields": {
+      "name": "Can change автор",
+      "content_type": 19,
+      "codename": "change_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 75,
+    "fields": {
+      "name": "Can delete автор",
+      "content_type": 19,
+      "codename": "delete_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 76,
+    "fields": {
+      "name": "Can view автор",
+      "content_type": 19,
+      "codename": "view_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 77,
+    "fields": {
+      "name": "Can add Соответствие компетенций",
+      "content_type": 20,
+      "codename": "add_complance"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 78,
+    "fields": {
+      "name": "Can change Соответствие компетенций",
+      "content_type": 20,
+      "codename": "change_complance"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 79,
+    "fields": {
+      "name": "Can delete Соответствие компетенций",
+      "content_type": 20,
+      "codename": "delete_complance"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 80,
+    "fields": {
+      "name": "Can view Соответствие компетенций",
+      "content_type": 20,
+      "codename": "view_complance"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 81,
+    "fields": {
+      "name": "Can add порядок проведения",
+      "content_type": 21,
+      "codename": "add_evaluationtools"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 82,
+    "fields": {
+      "name": "Can change порядок проведения",
+      "content_type": 21,
+      "codename": "change_evaluationtools"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 83,
+    "fields": {
+      "name": "Can delete порядок проведения",
+      "content_type": 21,
+      "codename": "delete_evaluationtools"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 84,
+    "fields": {
+      "name": "Can view порядок проведения",
+      "content_type": 21,
+      "codename": "view_evaluationtools"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 85,
+    "fields": {
+      "name": "Can add литература",
+      "content_type": 22,
+      "codename": "add_literature"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 86,
+    "fields": {
+      "name": "Can change литература",
+      "content_type": 22,
+      "codename": "change_literature"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 87,
+    "fields": {
+      "name": "Can delete литература",
+      "content_type": 22,
+      "codename": "delete_literature"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 88,
+    "fields": {
+      "name": "Can view литература",
+      "content_type": 22,
+      "codename": "view_literature"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 89,
+    "fields": {
+      "name": "Can add промежуточная аттестация",
+      "content_type": 23,
+      "codename": "add_finalcontrol"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 90,
+    "fields": {
+      "name": "Can change промежуточная аттестация",
+      "content_type": 23,
+      "codename": "change_finalcontrol"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 91,
+    "fields": {
+      "name": "Can delete промежуточная аттестация",
+      "content_type": 23,
+      "codename": "delete_finalcontrol"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 92,
+    "fields": {
+      "name": "Can view промежуточная аттестация",
+      "content_type": 23,
+      "codename": "view_finalcontrol"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 93,
+    "fields": {
+      "name": "Can add текущий контроль",
+      "content_type": 24,
+      "codename": "add_currentcontrol"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 94,
+    "fields": {
+      "name": "Can change текущий контроль",
+      "content_type": 24,
+      "codename": "change_currentcontrol"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 95,
+    "fields": {
+      "name": "Can delete текущий контроль",
+      "content_type": 24,
+      "codename": "delete_currentcontrol"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 96,
+    "fields": {
+      "name": "Can view текущий контроль",
+      "content_type": 24,
+      "codename": "view_currentcontrol"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 97,
+    "fields": {
+      "name": "Can add критерий оценивания кратко",
+      "content_type": 25,
+      "codename": "add_criteriaevaluationbrief"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 98,
+    "fields": {
+      "name": "Can change критерий оценивания кратко",
+      "content_type": 25,
+      "codename": "change_criteriaevaluationbrief"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 99,
+    "fields": {
+      "name": "Can delete критерий оценивания кратко",
+      "content_type": 25,
+      "codename": "delete_criteriaevaluationbrief"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 100,
+    "fields": {
+      "name": "Can view критерий оценивания кратко",
+      "content_type": 25,
+      "codename": "view_criteriaevaluationbrief"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 101,
+    "fields": {
+      "name": "Can add критерий оценивания",
+      "content_type": 26,
+      "codename": "add_criteriaevaluation"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 102,
+    "fields": {
+      "name": "Can change критерий оценивания",
+      "content_type": 26,
+      "codename": "change_criteriaevaluation"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 103,
+    "fields": {
+      "name": "Can delete критерий оценивания",
+      "content_type": 26,
+      "codename": "delete_criteriaevaluation"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 104,
+    "fields": {
+      "name": "Can view критерий оценивания",
+      "content_type": 26,
+      "codename": "view_criteriaevaluation"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 105,
+    "fields": {
+      "name": "Can add содержание оценочного средства",
+      "content_type": 27,
+      "codename": "add_contenstevaluationtools"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 106,
+    "fields": {
+      "name": "Can change содержание оценочного средства",
+      "content_type": 27,
+      "codename": "change_contenstevaluationtools"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 107,
+    "fields": {
+      "name": "Can delete содержание оценочного средства",
+      "content_type": 27,
+      "codename": "delete_contenstevaluationtools"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 108,
+    "fields": {
+      "name": "Can view содержание оценочного средства",
+      "content_type": 27,
+      "codename": "view_contenstevaluationtools"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 109,
+    "fields": {
+      "name": "Can add Индикатор достижения компетенции",
+      "content_type": 28,
+      "codename": "add_achivementindicator"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 110,
+    "fields": {
+      "name": "Can change Индикатор достижения компетенции",
+      "content_type": 28,
+      "codename": "change_achivementindicator"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 111,
+    "fields": {
+      "name": "Can delete Индикатор достижения компетенции",
+      "content_type": 28,
+      "codename": "delete_achivementindicator"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 112,
+    "fields": {
+      "name": "Can view Индикатор достижения компетенции",
+      "content_type": 28,
+      "codename": "view_achivementindicator"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$2ewjA7tIo5qp8jITK0OfYM$po6fatE8CYc7qvJdAOgrItt+8A4kEzGr+GKZ0e3lFKw=",
+      "last_login": "2022-11-28T11:05:36.777Z",
+      "is_superuser": true,
+      "username": "camilo",
+      "first_name": "",
+      "last_name": "",
+      "email": "camilo@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-11-21T10:11:52.514Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "app",
+      "model": "curriculum"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "app",
+      "model": "direction"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "app",
+      "model": "lessonform"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "app",
+      "model": "profile"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "app",
+      "model": "program"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+      "app_label": "app",
+      "model": "programname"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+      "app_label": "app",
+      "model": "thematicplan"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+      "app_label": "app",
+      "model": "thematicplanformlesson"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+      "app_label": "app",
+      "model": "studentmust"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+      "app_label": "app",
+      "model": "internetresource"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 17,
+    "fields": {
+      "app_label": "app",
+      "model": "curriculumlessonform"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 18,
+    "fields": {
+      "app_label": "app",
+      "model": "competence"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 19,
+    "fields": {
+      "app_label": "app",
+      "model": "author"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 20,
+    "fields": {
+      "app_label": "app",
+      "model": "complance"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 21,
+    "fields": {
+      "app_label": "app",
+      "model": "evaluationtools"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 22,
+    "fields": {
+      "app_label": "app",
+      "model": "literature"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 23,
+    "fields": {
+      "app_label": "app",
+      "model": "finalcontrol"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 24,
+    "fields": {
+      "app_label": "app",
+      "model": "currentcontrol"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 25,
+    "fields": {
+      "app_label": "app",
+      "model": "criteriaevaluationbrief"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 26,
+    "fields": {
+      "app_label": "app",
+      "model": "criteriaevaluation"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 27,
+    "fields": {
+      "app_label": "app",
+      "model": "contenstevaluationtools"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 28,
+    "fields": {
+      "app_label": "app",
+      "model": "achivementindicator"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "alhorfs51u5yo6mpp2hpa2563aodgf5z",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hBmIAVcuvcMZJhBqRqalHbVeHdt0oVu_3vvbyrRutS09jKnUdRZgTr9bpn4WdoO5EHtPmme2jKPWe-KPmjX10nK63K4fweVev3WbMixkWAHcejYikUAAsHBBIEMGcH5YrxhdjaIJSjOQywxQrwho3p_AMxdNxw:1ox3q4:pIQV8IvoM-wDOxYLxRTR3-Oy-PJoRHWqgj8DyFrrbng",
+      "expire_date": "2022-12-05T10:15:44.812Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "ef8vcp5pgxjeikx1nyom3s8na5xixgdh",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hBmIAVcuvcMZJhBqRqalHbVeHdt0oVu_3vvbyrRutS09jKnUdRZgTr9bpn4WdoO5EHtPmme2jKPWe-KPmjX10nK63K4fweVev3WbMixkWAHcejYikUAAsHBBIEMGcH5YrxhdjaIJSjOQywxQrwho3p_AMxdNxw:1ozbxA:gnyc6K5k7pnbAJ-yhnyomvZqBHmU6ZYw72cG9hb9Ajg",
+      "expire_date": "2022-12-12T11:05:36.784Z"
+    }
+  },
+  {
+    "model": "app.direction",
+    "pk": 1,
+    "fields": {
+      "name": "Программная инженерия",
+      "number": "09.03.04",
+      "qualification": "Бакалавриат"
+    }
+  },
+  {
+    "model": "app.profile",
+    "pk": 1,
+    "fields": {
+      "name": "Технологии разработки информационных систем",
+      "direction": 1
+    }
+  },
+  {
+    "model": "app.programname",
+    "pk": 1,
+    "fields": {
+      "name": "Теория информации и кодирования"
+    }
+  },
+  {
+    "model": "app.competence",
+    "pk": 1,
+    "fields": {
+      "name": "Владение навыками моделирования, анализа и использования формальных методов конструирования программного обеспечения, способность формализовать предметную область программного проекта и разработать спецификации для компонентов программного продукта",
+      "cipher": "ПК-4",
+      "program_name": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "app.program",
+    "pk": 1,
+    "fields": {
+      "release_date": "2020-06-19",
+      "program_name": 1,
+      "profile": 1,
+      "capabilities": null,
+      "form_training": "очное",
+      "language_choices": "русский",
+      "type_discipline": "базовая",
+      "accounting_methodological_support": null,
+      "material_technical_base": "Помещения для самостоятельной работы обучающихся, укомплектованные специализированной мебелью (столы и стулья) и оснащенные компьютерной техникой с возможностью подключения к сети \"Интернет\" и обеспечением доступа в электронную информационно-образовательную среду КФУ. Учебные аудитории для контактной работы с преподавателем, укомплектованные специализированной мебелью (столы и стулья). Компьютер и принтер для распечатки раздаточных материалов. Мультимедийная аудитория. Компьютерный класс."
+    }
+  },
+  {
+    "model": "app.author",
+    "pk": 1,
+    "fields": {
+      "last_name": "Салимов",
+      "first_name": "Ф.",
+      "patronymic_name": "И.",
+      "cathedra": "кафедра теоретической кибернетики",
+      "institute": "отделение фундаментальной информатики и информационных технологий",
+      "email": "Farid.Salimov@kpfu.ru",
+      "program": 1,
+      "academic_degree": "К.Н",
+      "academic_position": "доцент",
+      "academic_tittle": ""
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 1,
+    "fields": {
+      "text": "как измеряется информация, законы изменения количества информации при ее преобразовании",
+      "must_choices": "знать",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 2,
+    "fields": {
+      "text": "современные информационные технологии",
+      "must_choices": "знать",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 3,
+    "fields": {
+      "text": "какие средства существуют для борьбы с помехами",
+      "must_choices": "знать",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 4,
+    "fields": {
+      "text": "как устроены алгоритмы сжатия информации",
+      "must_choices": "знать",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 5,
+    "fields": {
+      "text": "современные информационные технологии",
+      "must_choices": "знать",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 6,
+    "fields": {
+      "text": "применять на практике знания, полученные по курсу 'Теория информации'",
+      "must_choices": "уметь",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 7,
+    "fields": {
+      "text": "применять вероятностный и информационный подход к смежным дисциплинам",
+      "must_choices": "уметь",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 8,
+    "fields": {
+      "text": "самостоятельно приобретать новые знания в области кодирования и передачи сигналов",
+      "must_choices": "уметь",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 9,
+    "fields": {
+      "text": "теоретическими знаниями о свойствах энтропии",
+      "must_choices": "владеть",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 10,
+    "fields": {
+      "text": "знать определения эргодического источника, канала",
+      "must_choices": "владеть",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 11,
+    "fields": {
+      "text": "уметь доказывать основные теоремы кодирования для дискретных источников и каналов",
+      "must_choices": "владеть",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.studentmust",
+    "pk": 12,
+    "fields": {
+      "text": "знать строение основных помехоустойчивых кодов, знать оценки предельного сжатия информации",
+      "must_choices": "владеть",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.internetresource",
+    "pk": 1,
+    "fields": {
+      "name": "В.В. Лидовский Теория информации",
+      "link": "http://www.mccme.ru/free- books/izdano/2004/it_ebook1.pdf",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.internetresource",
+    "pk": 2,
+    "fields": {
+      "name": "Основы теории информации и криптографии",
+      "link": "http://www.intuit.ru/studies/courses/2256/140/info",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.internetresource",
+    "pk": 3,
+    "fields": {
+      "name": "Теория информации и кодирования",
+      "link": "http://dspace.kpfu.ru/xmlui/bitstream/handle/net/21172/50_000337.pdf",
+      "program": 1
+    }
+  },
+  {
+    "model": "app.thematicplan",
+    "pk": 1,
+    "fields": {
+      "theme": "Понятие информации, энтропии",
+      "semester_number": 5,
+      "program": 1,
+      "text": "Системы связи источник, кодер, канал, декодер, адресат. Дискретные источники. Стационарные источники. Свойство эргодичности. Эргодичность бернуллиевского источника. Понятие энтропии. Вывод формулы энтропии. Свойства энтропии. Условная энтропия. Теорема о максимальном значении энтропии. Определение взаимной информации, связь взаимной информации и энтропии. Свойства взаимной информации."
+    }
+  },
+  {
+    "model": "app.thematicplan",
+    "pk": 2,
+    "fields": {
+      "theme": "Равномерное кодирование источников",
+      "semester_number": 5,
+      "program": 1,
+      "text": "Задача кодирования дискретного источника кодами равной длины. Постановка задачи. Модель равномерного кодирования, предложенная Шенноном. Теорема о высоковероятных множествах. Примеры высоковероятных множеств. Прямая и обратная теоремы кодирования Шеннона для дискретного источника кодами равной длины."
+    }
+  },
+  {
+    "model": "app.thematicplan",
+    "pk": 3,
+    "fields": {
+      "theme": "Задача кодирования дискретного источника кодами неравной длины. Сжатие информации.",
+      "semester_number": 5,
+      "program": 1,
+      "text": "Задача кодирования дискретного источника кодами неравной длины. Постановка задачи. Разрешимость задачи определения однозначной дешифрируемости. Теорема кодирования дискретного источника кодами неравной длины. Алгоритмы построения оптимальных кодов Словарные методы сжатия информации. Задача кодирования дискретного источника кодами неравной длины. Постановка задачи. Разрешимость задачи определения однозначной дешифрируемости. Теорема кодирования дискретного источника кодами неравной длины. Алгоритмы построения оптимальных кодов Словарные методы сжатия информации."
+    }
+  },
+  {
+    "model": "app.thematicplan",
+    "pk": 4,
+    "fields": {
+      "theme": "Дискретные каналы и их свойства",
+      "semester_number": 5,
+      "program": 1,
+      "text": "Дискретные каналы и их свойства. Скорость передачи информации в канале. Пропускная способность канала. Расширение канала и его пропускная способность. Вероятность ошибки декодирования в канале. Прямая теорема кодирования Шеннона для дискретного канала без памяти. Обращение теоремы кодирования Шеннона"
+    }
+  },
+  {
+    "model": "app.thematicplan",
+    "pk": 5,
+    "fields": {
+      "theme": "Теория помехоустойчивого кодирования.",
+      "semester_number": 5,
+      "program": 1,
+      "text": "Теория помехоустойчивого кодирования. Метрика Хэмминга. Конечные поля и их свойства. Линейные коды и их свойства. Вычисление кодового расстояния для линейных кодов. Метод максимального правдоподобия. Процедура декодирования линейных кодов. Коды Хэмминга. Циклические коды и их свойства."
+    }
+  },
+  {
+    "model": "app.lessonform",
+    "pk": 1,
+    "fields": {
+      "name": "лекции",
+      "text": "Поскольку курс собирается из разных источников, каждый из которых опирается на собственную терминологию, необходимо посещать все лекции, дома прорабатывать материал предыдущей лекции, стараться осознать место материала, изложенного в лекции в составе всего курса, уметь классифицировать различные подходы к решению задач."
+    }
+  },
+  {
+    "model": "app.lessonform",
+    "pk": 2,
+    "fields": {
+      "name": "практические занятия",
+      "text": "При решении задач на практических занятиях студент должен построить математическую модель задачи, сформулировать решаемую задачу в рамках этой модели, продумать и обосновать методы предлагаемого решения. При этом необходимо обращать внимание на связь с другими разделами математики (теория вероятностей, математический анализ, теория сложности)."
+    }
+  },
+  {
+    "model": "app.lessonform",
+    "pk": 3,
+    "fields": {
+      "name": "лабораторные работы",
+      "text": ""
+    }
+  },
+  {
+    "model": "app.lessonform",
+    "pk": 4,
+    "fields": {
+      "name": "экзамен",
+      "text": "В целом, при изучении курса студенты должны знать основные положения теории вероятностей. Необходимо обратить внимание на различные подходы определения оценки количества информации, свойства энтропии. Студенты должны научиться решать задачи на определение количества содержащейся в различных объектах информации, определять эффективность используемых кодов. При решении задач на вычисление энтропии студенты должны обратить внимание на определение и свойства энтропии, на преобразование логарифмической функции. При изучении различных способов кодирования, необходимо уметь определять однозначность декодирования предлагаемого кода, уметь оценивать значение целевой функции, определяющей эффективность кода, уметь сравнивать различные параметры создаваемого кода. При изучении дискретных каналов необходимо уметь вычислять скорость передачи информации, решать экстремальные задачи при определении пропускной способности. При изучении помехоустойчивого кодирования необходимы знания из теории групп, теории колец, теории конечных полей."
+    }
+  },
+  {
+    "model": "app.lessonform",
+    "pk": 5,
+    "fields": {
+      "name": "самостоятельная работа",
+      "text": "В процессе самостоятельной работы необходимо обратить внимание на свойства энтропии, содержательную интерпретацию результатов,разобраться в целесообразности применения того или иного подхода. Необходимо разобраться в теоремах кодирования источников и каналов, понять их взаимосвязь, попробывать запрограммировать некоторые алгоритмы сжатия информации."
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 1,
+    "fields": {
+      "count": 4,
+      "thematic_plan": 1,
+      "lesson_form": 1
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 2,
+    "fields": {
+      "count": 4,
+      "thematic_plan": 1,
+      "lesson_form": 2
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 3,
+    "fields": {
+      "count": 0,
+      "thematic_plan": 1,
+      "lesson_form": 3
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 4,
+    "fields": {
+      "count": 2,
+      "thematic_plan": 1,
+      "lesson_form": 5
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 5,
+    "fields": {
+      "count": 8,
+      "thematic_plan": 2,
+      "lesson_form": 1
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 6,
+    "fields": {
+      "count": 6,
+      "thematic_plan": 2,
+      "lesson_form": 2
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 7,
+    "fields": {
+      "count": 0,
+      "thematic_plan": 2,
+      "lesson_form": 3
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 8,
+    "fields": {
+      "count": 4,
+      "thematic_plan": 2,
+      "lesson_form": 5
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 9,
+    "fields": {
+      "count": 10,
+      "thematic_plan": 3,
+      "lesson_form": 1
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 10,
+    "fields": {
+      "count": 12,
+      "thematic_plan": 3,
+      "lesson_form": 2
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 11,
+    "fields": {
+      "count": 0,
+      "thematic_plan": 3,
+      "lesson_form": 3
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 12,
+    "fields": {
+      "count": 4,
+      "thematic_plan": 3,
+      "lesson_form": 5
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 13,
+    "fields": {
+      "count": 6,
+      "thematic_plan": 4,
+      "lesson_form": 1
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 14,
+    "fields": {
+      "count": 6,
+      "thematic_plan": 4,
+      "lesson_form": 2
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 15,
+    "fields": {
+      "count": 0,
+      "thematic_plan": 4,
+      "lesson_form": 3
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 16,
+    "fields": {
+      "count": 4,
+      "thematic_plan": 4,
+      "lesson_form": 5
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 17,
+    "fields": {
+      "count": 8,
+      "thematic_plan": 5,
+      "lesson_form": 1
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 18,
+    "fields": {
+      "count": 8,
+      "thematic_plan": 5,
+      "lesson_form": 2
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 19,
+    "fields": {
+      "count": 0,
+      "thematic_plan": 5,
+      "lesson_form": 3
+    }
+  },
+  {
+    "model": "app.thematicplanformlesson",
+    "pk": 20,
+    "fields": {
+      "count": 4,
+      "thematic_plan": 5,
+      "lesson_form": 5
+    }
+  },
+  {
+    "model": "app.curriculum",
+    "pk": 2,
+    "fields": {
+      "program_name": 1,
+      "profile": 1,
+      "semester_number": [
+        "5"
+      ],
+      "exam": false,
+      "test": true
+    }
+  },
+  {
+    "model": "app.complance",
+    "pk": 1,
+    "fields": {
+      "program": 1,
+      "competence": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 1,
+    "fields": {
+      "achivement_choices": "знать",
+      "text": "как измеряется информация, законы изменения количества информации при ее преобразовании",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 2,
+    "fields": {
+      "achivement_choices": "знать",
+      "text": "современные информационные технологии",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 3,
+    "fields": {
+      "achivement_choices": "знать",
+      "text": "какие средства существуют для борьбы с помехами",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 4,
+    "fields": {
+      "achivement_choices": "знать",
+      "text": "как устроены алгоритмы сжатия информации",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 5,
+    "fields": {
+      "achivement_choices": "знать",
+      "text": "современные информационные технологии",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 6,
+    "fields": {
+      "achivement_choices": "уметь",
+      "text": "применять на практике знания, полученные по курсу 'Теория информации'",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 7,
+    "fields": {
+      "achivement_choices": "уметь",
+      "text": "применять вероятностный и информационный подход к смежным дисциплинам",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 8,
+    "fields": {
+      "achivement_choices": "уметь",
+      "text": "самостоятельно приобретать новые знания в области кодирования и передачи сигналов",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 9,
+    "fields": {
+      "achivement_choices": "владеть",
+      "text": "теоретическими знаниями о свойствах энтропии",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 10,
+    "fields": {
+      "achivement_choices": "владеть",
+      "text": "знать определения эргодического источника, канала",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 11,
+    "fields": {
+      "achivement_choices": "владеть",
+      "text": "уметь доказывать основные теоремы кодирования для дискретных источников и каналов",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.achivementindicator",
+    "pk": 12,
+    "fields": {
+      "achivement_choices": "владеть",
+      "text": "*****знать строение основных помехоустойчивых кодов, знать оценки предельного сжатия информации",
+      "complance": 1
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 1,
+    "fields": {
+      "complance": 1,
+      "level_choices": "отлично",
+      "text": "Знать базовые понятия и классические концепции  (отлично)\r\n(86-100 баллов)",
+      "type": "знать"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 2,
+    "fields": {
+      "complance": 1,
+      "level_choices": "хорошо",
+      "text": "Называет и раскрывает сущность основных понятий и классических концепций и моделей менеджмента в управлении проектами, называет  (хорошо)\r\n(71-85 баллов)",
+      "type": "знать"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 3,
+    "fields": {
+      "complance": 1,
+      "level_choices": "удовлетворительно",
+      "text": "Знает основные и базовые понятия по курсу\r\nназывает некоторые методы экономического анализа\r\n(56-70 баллов)",
+      "type": "знать"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 4,
+    "fields": {
+      "complance": 1,
+      "level_choices": "неудовлетворительно",
+      "text": "Понимает о чём идёт речь и в чём заключается смысл изучения курса\r\nНе перечисляет и не называет базовых методов Ниже порогового уровня (неудовлетворительно)\r\n(0-55 баллов)",
+      "type": "знать"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 5,
+    "fields": {
+      "complance": 1,
+      "level_choices": "отлично",
+      "text": "концепции и модели менеджмента в управлении проектами полученную при построении простейших экономических моделей",
+      "type": "уметь"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 6,
+    "fields": {
+      "complance": 1,
+      "level_choices": "отлично",
+      "text": "Владеет навыками самостоятельной творческой работы и использования базовых концепций и моделей менеджмента в управлении проектами, навыками экономически грамотно формулировать и аргументировать свою позицию",
+      "type": "владеть"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 7,
+    "fields": {
+      "complance": 1,
+      "level_choices": "хорошо",
+      "text": "Умеет использовать базовые концепции и модели менеджмента в управлении проектами, строить простейшие экономические модели с использованием основных экономических показателей",
+      "type": "уметь"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 8,
+    "fields": {
+      "complance": 1,
+      "level_choices": "хорошо",
+      "text": "Владеет навыками постановки экономических и управленческих целей, самостоятельной творческой работы и использования базовых концепций и моделей менеджмента в управлении проектами",
+      "type": "владеть"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 9,
+    "fields": {
+      "complance": 1,
+      "level_choices": "удовлетворительно",
+      "text": "Умеет распознать некоторые типы экономических ситуаций\r\nСоздавать примитивные графики на основе анализа простейших ситуаций",
+      "type": "уметь"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 10,
+    "fields": {
+      "complance": 1,
+      "level_choices": "удовлетворительно",
+      "text": "Владеет базовыми понятиями по дисциплине",
+      "type": "владеть"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 11,
+    "fields": {
+      "complance": 1,
+      "level_choices": "неудовлетворительно",
+      "text": "Умеет при помощи вспомогательных средств приступить к рассмотрению экономической ситуации\r\nНе в состоянии применить методы экономического анализа и принятия решений",
+      "type": "уметь"
+    }
+  },
+  {
+    "model": "app.criteriaevaluation",
+    "pk": 12,
+    "fields": {
+      "complance": 1,
+      "level_choices": "неудовлетворительно",
+      "text": "Владеет небольшим посредственным набором инструментов экономического управленческого анализа без умения применять",
+      "type": "владеть"
+    }
+  },
+  {
+    "model": "app.evaluationtools",
+    "pk": 1,
+    "fields": {
+      "order_conduct": "Устный опрос проводится на практических занятиях."
+    }
+  },
+  {
+    "model": "app.evaluationtools",
+    "pk": 2,
+    "fields": {
+      "order_conduct": "Каждый студент получает задания, приведенные ниже. Контрольная работа состоит из 2\r\nчастей: 1 часть – вопросы, оценивающие теоретическое освоение темы студентом, 2 часть –"
+    }
+  },
+  {
+    "model": "app.currentcontrol",
+    "pk": 1,
+    "fields": {
+      "complance": 1,
+      "name": "ПК-1 Владение классическими концепциями и моделями менеджмента в управлении проектами",
+      "score": 56,
+      "evaluation_tools": 1
+    }
+  },
+  {
+    "model": "app.currentcontrol",
+    "pk": 3,
+    "fields": {
+      "complance": 1,
+      "name": "No1 по теме «Коммуникативные качества речи»",
+      "score": 30,
+      "evaluation_tools": 2
+    }
+  },
+  {
+    "model": "app.finalcontrol",
+    "pk": 1,
+    "fields": {
+      "exam_choices": "экзамен",
+      "program": 1,
+      "text": "Письменный зачёт",
+      "semester": 1,
+      "evaluation_tools": 1
+    }
+  },
+  {
+    "model": "app.contenstevaluationtools",
+    "pk": 1,
+    "fields": {
+      "text": "Эволюция экономической мысли через призму Нобелевской премии \nИстория возникновения денег.\nЭкономическая реформа 90-х годов в Российской Федерации: плюсы, минусы, перспективы.\nПриватизационные чеки: сущность, механизмы реализации. Итоги «ваучерной»\tприватизации. \nСравнительный анализ современных моделей смешанной экономики\nЧеловеческий капитал как основополагающий фактор экономического развития \nЗанятость и безработица: современные тенденции развития рынка труда.\nЭкономические законы спроса и предложения.\n",
+      "image": "https://koenig-media.raywenderlich.com/downloads/puppies/spaniel.jpeg",
+      "evaluation_tools": 1
+    }
+  },
+  {
+    "model": "app.criteriaevaluationbrief",
+    "pk": 7,
+    "fields": {
+      "text": "(ОТЛИЧНО)Умеет на уровне промышленного разработчика проектировать и разрабатывать программные системы",
+      "evaluation_tools": 1,
+      "level_type": "отлично"
+    }
+  },
+  {
+    "model": "app.criteriaevaluationbrief",
+    "pk": 8,
+    "fields": {
+      "text": "(ХРОШО)Умеет на уровне промышленного разработчика проектировать и разрабатывать программные системы",
+      "evaluation_tools": 1,
+      "level_type": "хорошо"
+    }
+  },
+  {
+    "model": "app.criteriaevaluationbrief",
+    "pk": 9,
+    "fields": {
+      "text": "(УДОВЛЕТВОРИТЕЛЬНО)Умеет на уровне промышленного разработчика проектировать и разрабатывать программные системы",
+      "evaluation_tools": 1,
+      "level_type": "удовлетворительно"
+    }
+  },
+  {
+    "model": "app.criteriaevaluationbrief",
+    "pk": 10,
+    "fields": {
+      "text": "(НЕ..УДОВЛЕТВОРИТЕЛЬНО)Умеет на уровне промышленного разработчика проектировать и разрабатывать программные системы",
+      "evaluation_tools": 1,
+      "level_type": "неудовлетворительно"
+    }
+  },
+  {
+    "model": "app.criteriaevaluationbrief",
+    "pk": 11,
+    "fields": {
+      "text": "SUPER, – в ответе качественно раскрыто содержание темы;\r\n– прекрасно освоен понятийный аппарат;\r\n– продемонстрирован высокий уровень понимания материала при решении практических\r\nзадач.",
+      "evaluation_tools": 2,
+      "level_type": "отлично"
+    }
+  },
+  {
+    "model": "app.criteriaevaluationbrief",
+    "pk": 12,
+    "fields": {
+      "text": "GOOD – основные вопросы темы раскрыты;\r\n– хорошо освоен понятийный аппарат;\r\n– продемонстрирован хороший уровень понимания материала при решении практических\r\nзадач.",
+      "evaluation_tools": 2,
+      "level_type": "хорошо"
+    }
+  },
+  {
+    "model": "app.criteriaevaluationbrief",
+    "pk": 14,
+    "fields": {
+      "text": "BAD– тема раскрыта частично;\r\n– понятийный аппарат освоен частично;\r\n– понимание отдельных положений из материала по теме при решении практических задач.",
+      "evaluation_tools": 2,
+      "level_type": "неудовлетворительно"
+    }
+  },
+  {
+    "model": "app.criteriaevaluationbrief",
+    "pk": 15,
+    "fields": {
+      "text": "MEDIUM – тема раскрыта частично;\r\n– понятийный аппарат освоен частично;\r\n– понимание отдельных положений из материала по теме при решении практических задач.",
+      "evaluation_tools": 2,
+      "level_type": "удовлетворительно"
+    }
+  },
+  {
+    "model": "app.literature",
+    "pk": 1,
+    "fields": {
+      "text": "Васюткина И.А., Технология разработки объектно-ориентированных программ на JAVA : учебно - методическое пособие / Васюткина И.А. - Новосибирск : Издательство Новосибирского государственного технического университета, 2012. - 152 с. - ISBN 978-5-7782-1973-1",
+      "literature_type": "основная",
+      "program": 1
+    }
+  }
+]
